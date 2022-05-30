@@ -1,4 +1,4 @@
 # LIVRO DE RECEITAS
 
 
-### Olá, bem vindo ao livrro de receitas ###
+### Olá, bem vindo ao livro de receitas ###
